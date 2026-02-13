@@ -1,2 +1,3 @@
 # B-Tech_G2H_ManishVerma_49
-C-PROGRAMMING
+This repository contains my C programming practice programs.
+
