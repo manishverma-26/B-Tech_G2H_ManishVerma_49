@@ -1,6 +1,6 @@
 # B-Tech_G2H_ManishVerma_49
 
-# 👨‍💻 Manish Kumar Verma
+# 👨‍💻 Manish Verma
 
 🎓 B.Tech Student (2025–2029)  
 🏫 G.L. Bajaj Institute of Technology and Management  
