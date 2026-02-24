@@ -29,7 +29,7 @@ I am currently learning:
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/mansihverma07)
-- 📸 Instagram: [Instagram Profile](https://instagram.com/the.manver)
+- 📸 Instagram: [Instagram Profile](https://instagram.com/manishxverma108)
 - 📧 Email: manishverma0757@gmail.com
 
 ---
