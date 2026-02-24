@@ -3,7 +3,9 @@
 # 👨‍💻 Manish Verma
 
 🎓 B.Tech Student (2025–2029)  
-🏫 G.L. Bajaj Institute of Technology and Management  
+🏫 G.L. Bajaj Institute of Technology and Management 
+▶️ Section - G2H
+▶️ Roll NO. - 49
 💻 Learning C Programming & Core Engineering Concepts  
 
 ---
