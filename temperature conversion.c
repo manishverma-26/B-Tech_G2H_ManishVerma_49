@@ -1,3 +1,5 @@
+//WAP that accepts the temperature in Centigrade and converts into Fahrenheit.
+
 #include<stdio.h>
 int main()
 {
