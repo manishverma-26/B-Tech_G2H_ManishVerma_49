@@ -16,17 +16,6 @@ This repository contains my C programming practice programs, assignments, and ba
 I am currently learning:
 
 - C Programming Basics
-- Loops and Conditionals
-- Functions (Upcoming)
-
----
-
-## 📂 Programs Included
-
-- Hello World Program
-- More coming soon...
-
----
 
 ## 🌐 Connect With Me
 
